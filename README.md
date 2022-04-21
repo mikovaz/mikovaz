@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikovaz (Oscar Corona)
-- 🌱 I’m currently attending a full stack coding bootcamp (Kodemia)
+- 🌱 I’m currently learning to code
 - 📫 Feel free to reach me at me@ocv.mx
 
 <!---
